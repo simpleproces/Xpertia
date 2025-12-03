@@ -189,8 +189,12 @@ Estos datasets se integran en un esquema de datos en BigQuery (staging, dimensio
 
 7.2 Tablero de Looker Studio
 
-📊 Informe demo de desempeño de programa target
+📊 Informe demo de desempeño de programa target (codigo SNIES conocido)
    👉 https://lookerstudio.google.com/reporting/964f3987-b8c6-4eaf-aa04-5a24d3e1fb47/page/p_ecj9cnncwd/edit?s=t1a5RXiXPZU
+   Nota: El enlace está configurado como informe demo en modo lectura/edición compartida según la configuración de acceso del autor.
+
+📊 Informe demo de desempeño de programa nuevo
+   👉 https://lookerstudio.google.com/s/ujdkfBk7M3Q
    Nota: El enlace está configurado como informe demo en modo lectura/edición compartida según la configuración de acceso del autor.
 
 8. Limitaciones y trabajo futuro
