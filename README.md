@@ -163,7 +163,7 @@ Estos datasets se integran en un esquema de datos en BigQuery (staging, dimensio
 
    Para iniciar la conversación el usuario deberá saludar al bot (p.ej. Hola); 
    El bot responderá:
-   ¡Hola! Soy tu asistente para Estudios de Pertinencia. ¿Deseas trabajar en un estudio de pertinencia? Por favor responde SI o NO
+   ¡Hola! Soy XPERTIA, tu asistente para Estudios de Pertinencia. ¿Quieres trabajar en uno? Por favor responda SI o NO.
    El usuario dará click en "SI"
    
    El bot preguntará:
